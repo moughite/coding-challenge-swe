@@ -35,3 +35,11 @@ Write a small application which fetches data from an API (I'd choose [this one](
 
 1. Fork this repo and create a pull request
 2. notify Memberspot
+
+## Alternatives
+
+If you do not have time for a take home assignment, let us know!
+In this case we would try to implement parts of it live in a technical interview
+
+If you have a project to which you contribute regularly, when can also talk about that.
+We are interested in your work.
