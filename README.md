@@ -31,7 +31,7 @@ Write a small application which fetches data from an API (I'd choose [this one](
 3. if you want to mock a database, use a json file and load it into memory
 4. please use `strict` mode in your tsconfig
 
-## Submitting
+### Submitting
 
 1. Fork this repo and create a pull request
 2. notify Memberspot
