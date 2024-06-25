@@ -32,7 +32,7 @@ Schreibe eine kleine Anwendung, die Daten von einer API abruft (wir empfehlen [d
 
 ### Einreichen
 
-1. Forke dieses Repository und erstelle einen Pull-Request.
+1. Forke dieses Repository und sende uns deine Lösung.
 2. Benachrichtige Memberspot.
 
 ## Alternativen

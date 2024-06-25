@@ -32,7 +32,7 @@ Write a small application that fetches data from an API (we recommend [this one]
 
 ### Submitting
 
-1. Fork this repo and create a pull request.
+1. Fork this repo and send us your solutions.
 2. Notify Memberspot.
 
 ## Alternatives
